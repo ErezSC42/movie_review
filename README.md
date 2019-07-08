@@ -1,4 +1,4 @@
-# movie_review
+# Amazon web movie review score prediction
 Amazon movie review challenge
 The purpose of the challenge is to predict human written movie reviews' score (1 - 5)
 I have attempted 2 approaches:
